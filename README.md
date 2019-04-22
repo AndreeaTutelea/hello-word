@@ -2,4 +2,4 @@
 
 Hello,
 
-I'm Andreea and a like pizza and chocolate :).
+I'm Andreea:).
