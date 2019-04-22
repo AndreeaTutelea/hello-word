@@ -1,2 +1,5 @@
 # hello-word
-First Repository
+
+Hello,
+
+I'm Andreea and a like pizza and chocolate :).
